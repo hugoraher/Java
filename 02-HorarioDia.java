@@ -1,10 +1,11 @@
 /*
  
  */
-package BuscadorApellido;
-import java.util.Scanner;       //Se importa la clase Scanner
+package Programas;              //Modificar al nombre del paquete que utilizas o utilizarás para desarrollar dicho programa.
+import java.util.Scanner;       //Se importa la clase Scanner.
 
-                                        //Comentarios de documentación
+
+//Comentarios de documentación.
 /**
  * Nombre del programa: Hora del día.  
  * ---
@@ -19,15 +20,16 @@ import java.util.Scanner;       //Se importa la clase Scanner
  * Fecha última de modificación: 25/02/2021
  * Hora última de modificación: 12:39 pm
  */
-public class HorarioDia {       //se inicia la clase
+
+public class HorarioDia {       //se inicia la clase.
     public static void main (String [] args){
-        Scanner input=new Scanner (System.in); //Se crea el objeto Scanner
-        int hora=24;            //se declara la variable y se le asigna valor
+        Scanner input=new Scanner (System.in); //Se crea el objeto Scanner.
+        int hora=24;            //se declara la variable y se le asigna el valor 24 (Referencia a 24 horas del día).
         
-        System.out.print("Ingresa la hora del día en formato de 24 horas, por favor: "); //Se solicita al usuario ingresar datos por el teclado 
+        System.out.print("Ingresa la hora del día en formato de 24 horas, por favor: "); //Se solicita al usuario ingresar datos por el teclado. 
         hora=input.nextInt();                                                            
         
-        if(hora<6){             //Inicia la declaración "else if"
+        if(hora<6){             //Inicia la declaración "else if".
             System.out.println("Son las " + hora + " am," + " es hora de dormir.");
         }else if(hora<12) {
             System.out.println("Son las " + hora + " pm," + " buenos días.");
