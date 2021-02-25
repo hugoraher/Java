@@ -18,7 +18,7 @@ import java.util.Scanner;       //Se importa la clase Scanner.
  * @author Víctor Hugo Raher
  * @version java 1.8.0_281
  * Fecha última de modificación: 25/02/2021
- * Hora última de modificación: 12:39 pm
+ * Hora última de modificación: 16:13 pm
  */
 
 public class HorarioDia {       //se inicia la clase.
@@ -32,11 +32,11 @@ public class HorarioDia {       //se inicia la clase.
         if(hora<6){             //Inicia la declaración "else if".
             System.out.println("Son las " + hora + " am," + " es hora de dormir.");
         }else if(hora<12) {
-            System.out.println("Son las " + hora + " pm," + " buenos días.");
+            System.out.println("Son las " + hora + " am," + " buenos días.");
         }else if(hora<18) {
             System.out.println("Son las " + hora + " pm," + " buenas tardes.");
         }else if(hora<24) {  
-            System.out.println("Son las " + hora + " am," + " buenas noches.");
+            System.out.println("Son las " + hora + " pm," + " buenas noches.");
         } else {
             System.out.println("La hora no existe.");
         }                       //Termina la declaración "else if"
