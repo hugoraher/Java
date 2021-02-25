@@ -1,7 +1,5 @@
 /*
- * El presente programa, se puede usar con fines didácticos, y claro está, 
-   si llegas a utilizarlo como ejemplo, cites dicha fuente.
-   Gracias
+ 
  */
 package BuscadorApellido;
 import java.util.Scanner;       //Se importa la clase Scanner
