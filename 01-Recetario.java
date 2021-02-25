@@ -98,7 +98,7 @@ public class Recetario {                    //Se inicia la clase.
                 
             default:                                                                //Método funcional para notificar mensajes alternos al usuario.
         System.out.println("La receta que elegiste no existe.");
-        } //fin de la declaración Switch.
+        }                                                                           //fin de la declaración Switch.
     }
 }
 
