@@ -1,4 +1,3 @@
-
 package BuscadorApellido;
 import java.util.Scanner;       //Se importa la clase Scanner
 
