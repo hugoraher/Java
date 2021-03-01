@@ -1,5 +1,5 @@
 package Programas;	             //Modificar al nombre del paquete que utilizas o utilizarás para desarrollar dicho programa.
-import java.util.Scanner;        //Se anexa la clase Scanner (Permitirá ingresar datos desde el teclado).
+import java.util.Scanner;         //Se anexa la clase Scanner (Permitirá ingresar datos desde el teclado).
 
 
 //Comentarios de documentación
