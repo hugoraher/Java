@@ -1,7 +1,7 @@
 /*
  
  */
-package BuscadorApellido;                                              //Modificar al nombre del paquete que utilizas o utilizarás para desarrollar dicho programa.
+package Ejercicios;                                              //Modificar al nombre del paquete que utilizas o utilizarás para desarrollar dicho programa.
 import java.util.Scanner;                                              //Se importa la clase Scanner.
 /**
 * Nombre del programa: Confirmación de usuario y contraseña.  
