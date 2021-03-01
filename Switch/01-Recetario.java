@@ -1,7 +1,7 @@
 package Programas;	             //Modificar al nombre del paquete que utilizas o utilizarás para desarrollar dicho programa.
-import java.util.Scanner;                       //Se anexa la clase Scanner (Permitirá ingresar datos desde el teclado).
+import java.util.Scanner;        //Se anexa la clase Scanner (Permitirá ingresar datos desde el teclado).
 
-                                                //Comentarios de documentación
+//Comentarios de documentación
 /**
  * Nombre del programa: Recetario
  * ---
@@ -16,6 +16,7 @@ import java.util.Scanner;                       //Se anexa la clase Scanner (Per
  * Fecha última de modificación: 25/02/2021
  * Hora última de modificación:  15:46 pm
  */
+
 public class Recetario {                    //Se inicia la clase.
      public static void main (String []args){
         Scanner input=new Scanner(System.in);   //Se declara la clase Scanner.
