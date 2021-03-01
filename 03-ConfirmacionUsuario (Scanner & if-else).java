@@ -1,6 +1,6 @@
 /*
  
- */
+*/
 package Programas;                                              //Modificar al nombre del paquete que utilizas o utilizarás para desarrollar dicho programa.
 import java.util.Scanner;                                       //Se importa la clase Scanner.
 
@@ -20,6 +20,7 @@ import java.util.Scanner;                                       //Se importa la 
  * Hora última de modificación:  08:01 am
  * 
  **/
+
 public class ConfirmacionUsuario {                                      //Se inicializa la clase.
     public static void main (String [] args){
         
