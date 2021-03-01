@@ -1,10 +1,12 @@
 /*
  
  */
-package Ejercicios;                                              //Modificar al nombre del paquete que utilizas o utilizarás para desarrollar dicho programa.
-import java.util.Scanner;                                              //Se importa la clase Scanner.
+package Programas;                                              //Modificar al nombre del paquete que utilizas o utilizarás para desarrollar dicho programa.
+import java.util.Scanner;                                       //Se importa la clase Scanner.
+
+//Comentarios del programa
 /**
-* Nombre del programa: Confirmación de usuario y contraseña.  
+ * Nombre del programa: Confirmación de usuario y contraseña.  
  * ---
  * "El programa solicita que se ingrese Usuario y Contraseña. En caso de que éstos sean correctos,
  * permite el acceso, si no lo son, solicita nuevamente los datos mencionados".
