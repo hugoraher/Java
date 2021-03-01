@@ -1,5 +1,7 @@
 package BuscadorApellido;                                              //Modificar al nombre del paquete que utilizas o utilizarás para desarrollar dicho programa.
 import java.util.Scanner;                                              //Se importa la clase Scanner.
+
+//Comentarios del programa
 /**
 * Nombre del programa: Confirmación de usuario y contraseña.  
  * ---
@@ -15,6 +17,8 @@ import java.util.Scanner;                                              //Se impo
  * Hora última de modificación:  08:01 am
  * 
  **/
+
+
 public class ConfirmacionUsuario {                                      //Se inicializa la clase.
     public static void main (String [] args){
         
