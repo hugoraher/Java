@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ProgramasPragmáticos;
+package ProgramasPragmáticos;           //Modificar el paquete que se utiliza o utilizará para crear el programa.
 import java.util.Scanner;               //Importación de la clase Escáner.
 
-                                        //Comentarios de documentación
+//Comentarios de documentación
 /**
  * Nombre del programa: Horario Escolar
  * ---
@@ -61,8 +61,6 @@ public class HorarioEscolar {                      //Creación e inicio de la cl
         System.out.print("¿Qué día es hoy?:  ");                    //Mensaje de impresión que solicita datos al usuario por teclado.
         ndia=input1.nextLine();                                     //Lee los datos que ingresa el usuario.
         
-        
-       
         
         switch(ndia){                         //Inicio de la declaración Switch
                                               //Cambiar materias y horario a convenir.
