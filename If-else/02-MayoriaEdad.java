@@ -1,4 +1,4 @@
-package ProgramasPragmáticos;       //Nombre del paquete dónde mis programas.
+package ProgramasPragmáticos;       //Nombre del paquete dónde alojo mis programas.
 import java.util.Scanner;           //Se importa la clase Scanner.
 
 //Comentarios de documentación
