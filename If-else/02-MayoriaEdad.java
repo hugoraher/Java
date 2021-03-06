@@ -1,4 +1,4 @@
-package ProgramasPragmáticos;       //Nombre del paquete dónde están alojagos mis programas.
+package ProgramasPragmáticos;       //Nombre del paquete dónde mis programas.
 import java.util.Scanner;           //Se importa la clase Scanner.
 
 //Comentarios de documentación
@@ -6,7 +6,7 @@ import java.util.Scanner;           //Se importa la clase Scanner.
  * Nombre del programa: Mayoría de edad.
  * ---
  * "El programa solicita al usuario ingresar su edad, si éste cumple la mayoría de edad, se permite
- * el acceso. Si no, se le niega por ser menor de edad.
+ * el acceso. Si no, se le niega acceder por ser menor de edad.
  * Para desarrollar éste programa: Se utilizó la clase Scanner y la declaración if-else.
  * ---
  * Fecha de creación: 06/03/2021
