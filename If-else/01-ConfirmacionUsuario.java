@@ -16,7 +16,7 @@ import java.util.Scanner;                                              //Se impo
  * Fecha última de modificación: 01/03/2021
  * Hora última de modificación:  08:01 am
  * 
- **/
+ */
 
 
 public class ConfirmacionUsuario {                                      //Se inicializa la clase.
