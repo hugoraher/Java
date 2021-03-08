@@ -32,6 +32,5 @@ public class Suma1 {
         resultado=n1 + n2;
         
         System.out.println("La suma de los dos números es: " + resultado);
-    }
-    
+    }   
 }
