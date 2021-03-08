@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package ProgramasPragmáticos;           //Modificar el paquete que se utiliza o utilizará para crear el programa.
 import java.util.Scanner;               //Importación de la clase Escáner.
 
@@ -20,6 +15,7 @@ import java.util.Scanner;               //Importación de la clase Escáner.
  * Fecha última de modificación: 03/03/2021
  * Hora última de modificación:  12:14 pm
  */
+
 public class HorarioEscolar {                      //Creación e inicio de la clase
     public static void main (String [] args){
         Scanner input = new Scanner (System.in);   //Creación del objeto input Escaner
