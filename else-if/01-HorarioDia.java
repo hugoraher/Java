@@ -1,7 +1,6 @@
 package BuscadorApellido;
 import java.util.Scanner;       //Se importa la clase Scanner
 
-
 //Comentarios de documentación
 /**
  * Nombre del programa: Hora del día.  
