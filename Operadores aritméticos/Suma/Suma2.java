@@ -22,8 +22,7 @@ public class Suma2 {
         Scanner input=new Scanner(System.in);
         
         int n1,n2,n3,resultado;
-       
-        
+      
         System.out.print("Ingresa el primer número: ");
         n1=input.nextInt();
         
@@ -34,7 +33,6 @@ public class Suma2 {
         n3=input.nextInt();
         
         resultado=n1+n2+n3;
-        
         
         System.out.println("El resultado de los tres número es: " + resultado);
     }
