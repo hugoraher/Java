@@ -39,6 +39,6 @@ public class Suma3 {            //Se inicia la clase.
     
     resultado=n1+n2+n3+n4+n5;                       //Se asigna valor a la variable resultado.
     
-    System.out.println("\nEl resultado de los cinco números es: " + resultado);      //Impresión de mensaje y resultado de la resta.
+    System.out.println("\nEl resultado de los cinco números es: " + resultado);      //Impresión de mensaje y resultado de la suma.
     }    
 }
