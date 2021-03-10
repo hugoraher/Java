@@ -33,5 +33,4 @@ public class Multiplicación1 {           //Se inicia la clase
         
          System.out.println("El resultado de la resta es: " + resultado);   //Impresión de mensaje y resultado de la resta.
     }
-    
 }
