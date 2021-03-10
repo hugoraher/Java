@@ -40,7 +40,7 @@ public class Multiplicación3 {           //Se inicia la clase
         n5=input.nextInt();                             //Lee los datos que ingresa por teclado.
         
         resultado=n1*n2*n3*n4*n5;                       //Se asigna valor a la variable resultado.
-        
-        System.out.println("El resultado de la resta es: " + resultado);   //Impresión de mensaje y resultado de la resta.
+       
+        System.out.println("El resultado de la multiplicación es: " + resultado);   //Impresión de mensaje y resultado de la multiplicación.
     }
 }
