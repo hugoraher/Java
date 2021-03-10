@@ -34,6 +34,6 @@ public class Suma2 {             //Se inicia la clase.
         resultado=n1+n2+n3;                             //Se asigna valor a la variable resultado.
         
         
-        System.out.println("El resultado de los tres número es: " + resultado);     //Impresión de mensaje y resultado de la resta.
+        System.out.println("El resultado de los tres número es: " + resultado);     //Impresión de mensaje y resultado de la suma.
     }
 }
