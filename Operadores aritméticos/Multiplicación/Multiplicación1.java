@@ -31,6 +31,6 @@ public class Multiplicación1 {           //Se inicia la clase
         
         resultado=n1*n2;                                //Se asigna valor a la variable resultado.
         
-         System.out.println("El resultado de la multiplicación es: " + resultado);   //Impresión de mensaje y resultado de la resta.
+         System.out.println("El resultado de la multiplicación es: " + resultado);   //Impresión de mensaje y resultado de la multiplicación.
     }
 }
