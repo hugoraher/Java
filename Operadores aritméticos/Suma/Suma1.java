@@ -30,6 +30,6 @@ public class Suma1 {                               //Se inicia la clase.
         
         resultado=n1 + n2;                                  //Se asigna valor a la variable resultado.
          
-        System.out.println("La suma de los dos números es: " + resultado);  //Impresión de mensaje y resultado de la resta.
+        System.out.println("La suma de los dos números es: " + resultado);  //Impresión de mensaje y resultado de la suma.
     }
 }
