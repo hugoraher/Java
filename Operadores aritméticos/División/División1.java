@@ -30,7 +30,7 @@ public class División1 {                                //Se inicia la clase
         System.out.print("Ingresa el segundo número: ");//Sengundo mensaje de impresión para ingresar datos por teclado.
         n2=input.nextInt();                             //Lee los datos que ingresa por teclado.
         
-        resultado=n1/n2;                       //Se asigna valor a la variable resultado.
+        resultado=n1/n2;                                //Se asigna valor a la variable resultado.
         
         System.out.println("El resultado de la división es: " + resultado);   //Impresión de mensaje y resultado de la división.
     }
