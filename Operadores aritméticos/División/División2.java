@@ -37,5 +37,4 @@ public class División2 {                                //Se inicia la clase.
         
         System.out.println("El resultado de la división es: " + resultado);   //Impresión de mensaje y resultado de la división.
     }
-    
 }
