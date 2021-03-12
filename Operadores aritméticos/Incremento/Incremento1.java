@@ -29,6 +29,6 @@ public class Incremento1 {                           //Se inicia la clase.
         x=input.nextInt();                            //Lee los datos que ingresan por teclado.
         ++x;                                          //Incremento (Siguiente número)
         
-        System.out.println("El siguiente número a partir del que ingresaste es: " + x);     //Impresión de mensaje y resultado de la división.
+        System.out.println("El siguiente número a partir del que ingresaste es: " + x + ".");     //Impresión de mensaje y resultado de la división.
     }
 }
