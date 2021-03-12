@@ -13,8 +13,8 @@ import java.util.Scanner;       //Se importa la clase Scanner (Permitirá ingres
  * Hora: 07:01 am
  * @author Víctor Hugo Raher
  * @version java 1.8.0_281
- * Fecha última de modificación: / /2021
- * Hora última de modificación: : 
+ * Fecha última de modificación: 12/03/2021
+ * Hora última de modificación: 07:22 am 
  *
  */
 
@@ -29,6 +29,6 @@ public class Incremento1 {                           //Se inicia la clase.
         x=input.nextInt();                            //Lee los datos que ingresan por teclado.
         ++x;                                          //Incremento (Siguiente número)
         
-        System.out.println("El siguiente número a partir del que ingresaste es: " + x + ".");     //Impresión de mensaje y resultado de la división.
+        System.out.println("El siguiente número a partir del que ingresaste es: " + x + ".");     //Impresión de mensaje y resultado.
     }
 }
