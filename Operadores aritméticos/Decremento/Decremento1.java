@@ -29,6 +29,5 @@ public class Decremento1 {
         --x;                                          //Decremento (Anterior número)
         
         System.out.println("El anterior número a partir del que ingresaste es: " + x);     //Impresión de mensaje y resultado.
-    }
-    
+    }   
 }
