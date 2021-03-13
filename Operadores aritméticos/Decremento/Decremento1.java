@@ -24,7 +24,7 @@ public class Decremento1 {
         Scanner input = new Scanner (System.in);
         int x;
         
-         System.out.print("Ingresa un número: ");      //Primer mensaje de impresión para ingresar datos por teclado.
+        System.out.print("Ingresa un número: ");      //Primer mensaje de impresión para ingresar datos por teclado.
         x=input.nextInt();                            //Lee los datos que ingresan por teclado.
         --x;                                          //Decremento (Anterior número)
         
