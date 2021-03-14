@@ -31,4 +31,3 @@ public class AñoSiguiente {                             //Se inicia la clase.
         System.out.println("El siguiente año es: " + a);//Impresión de mensaje y resultado.
     }
 }
-
