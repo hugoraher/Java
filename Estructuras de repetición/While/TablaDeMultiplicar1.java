@@ -124,6 +124,3 @@ public class TablaDeMultiplicar1 {                                         //Se 
                     }                                                       //Termina la declaración switch
                 }
             }
-
-   
-
