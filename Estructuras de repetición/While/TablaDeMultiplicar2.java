@@ -38,6 +38,7 @@ public class TablaDeMultiplicar2 {                                      //Se ini
         
         System.out.print("Ingresa un número: ");                        //Impresión de línea que solicita el ingreso de datos por teclado.
         m=input.nextInt();                                              //Lee los datos que ingresan por teclado.
+        
       
         switch(m){                                                      //Inicia la declaración switch.
             case 11:
