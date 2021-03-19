@@ -28,6 +28,7 @@ public class Decremento2{                                //Se inicia la clase.
         
         --edad;                                          //Decremento (Anterior número)
         
+        
         System.out.println("Tu número de cumpleaños pasado fue: " + edad + ".");        //Impresión de mensaje y resultado.
     }
 }
