@@ -117,6 +117,7 @@ public class TablaDeMultiplicar3 {                                         //Se 
                     System.out.println("30 * " + u + " = " + u*r10); 
                     u++;
                 }
+                
                     break;
                     default:
                         System.out.println("El número no existe.");
