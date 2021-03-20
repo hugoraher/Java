@@ -28,6 +28,7 @@ public class Incremento2 {                              //Se inicia la clase.
         
         edad++;                                         //Incremento (Siguiente número)
         
+        
         System.out.println("Tu próximo número de cumpleaños será: " + edad + ".");      //Impresión de mensaje y resultado.
     }
 }
