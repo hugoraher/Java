@@ -35,6 +35,5 @@ public class ÁreaTriángulo {            //Se inicia la clase
         a=ba*al/2;                                              //Área= base * altura / 2.
         
         System.out.println("El área del triángulo es: " + a  );     //Línea de impresión para mostrar el resultado.
-        
     }
 }
