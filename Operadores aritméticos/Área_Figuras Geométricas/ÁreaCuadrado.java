@@ -24,10 +24,10 @@ public class ÁreaCuadrado {             //Se inicia la clase
         int a, la1, la2;                                //Se declaran variables.
         
         System.out.println("\t\t\t\t\t\tÁrea de un Cuadrado\n");    //Línea impresa del título del programa.
-        System.out.print("Ingresa la base: ");                      //Primer mensaje de impresión para ingresar datos por teclado.
+        System.out.print("Ingresa el número para el lado 1: ");     //Primer mensaje de impresión para ingresar datos por teclado.
         la1=input.nextInt();                                        //Lee los datos que ingresan por teclado.
         
-        System.out.print("Ingresa la altura: ");                    //Segundo mensaje de impresión para ingresar datos por teclado.
+        System.out.print("Ingresa el número para el lado 2: ");     //Segundo mensaje de impresión para ingresar datos por teclado.
         la2=input.nextInt();                                        //Lee los datos que ingresan por teclado.
         
         a=la1*la2;                                                  //Área= lado * lado.
