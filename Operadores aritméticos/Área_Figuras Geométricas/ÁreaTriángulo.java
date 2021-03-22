@@ -26,13 +26,13 @@ public class ÁreaTriángulo {            //Se inicia la clase
        
         
         System.out.print("\t\t\t\t\tÁrea de un Triángulo:\n\n"); //Línea impresa del título del programa.    
-        System.out.print("Ingresa la base: ");                //Primer mensaje de impresión para ingresar datos por teclado.
+        System.out.print("Ingresa la base: ");                  //Primer mensaje de impresión para ingresar datos por teclado.
         ba=input.nextInt();                                     //Lee los datos que ingresan por teclado.
         
-        System.out.print("Ingresa la altura: ");                //Primer mensaje de impresión para ingresar datos por teclado.
+        System.out.print("Ingresa la altura: ");                //Segundo mensaje de impresión para ingresar datos por teclado.
         al=input.nextInt();                                     //Lee los datos que ingresan por teclado.
         
-        a=ba*al/2;                                              //Área= base * altura / 2.
+        a=ba*al/2;                                                  //Área= base * altura / 2.
         
         System.out.println("El área del triángulo es: " + a  );     //Línea de impresión para mostrar el resultado.
     }
