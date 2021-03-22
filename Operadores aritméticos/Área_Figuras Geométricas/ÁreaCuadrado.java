@@ -6,7 +6,7 @@ import java.util.Scanner;           //Se importa la clase Scanner (Permitirá in
  * Nombre del programa: Área de un Cuadrado.
  * ---
  * "El programa Área de un Cuadrado, calcula el área de un cuadrado mediante los datos que ingresa el usuario.
- * Para desarrollar éste programa: Se utilizó la clase Scanner, el operador "* y /".
+ * Para desarrollar éste programa: Se utilizó la clase Scanner y el operador "*".
  * ---
  * Fecha de creación: 22/03/2021
  * Hora: 10:45 am
