@@ -34,5 +34,4 @@ public class ÁreaCuadrado {             //Se inicia la clase
         
         System.out.println("El área del cuadrado es: " + a);        //Línea de impresión para mostrar el resultado.
     }
-    
 }
