@@ -30,7 +30,7 @@ public class ÁreaCuadrado {             //Se inicia la clase
         System.out.print("Ingresa la altura: ");                    //Segundo mensaje de impresión para ingresar datos por teclado.
         la2=input.nextInt();                                        //Lee los datos que ingresan por teclado.
         
-        a=la1*la2;                                                  //Área= base * altura.
+        a=la1*la2;                                                  //Área= lado * lado.
         
         System.out.println("El área del cuadrado es: " + a);        //Línea de impresión para mostrar el resultado.
     }
