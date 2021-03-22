@@ -25,7 +25,7 @@ public class ÁreaTriángulo {            //Se inicia la clase
         int a, ba, al;                              //Se declaran variables.
        
         
-        System.out.print("\t\t\t\t\tÁrea de un Triángulo:\n\n"); //Línea impresa del título del programa.    
+        System.out.print("\t\t\t\t\tÁrea de un Triángulo:\n\n");//Línea impresa del título del programa.    
         System.out.print("Ingresa la base: ");                  //Primer mensaje de impresión para ingresar datos por teclado.
         ba=input.nextInt();                                     //Lee los datos que ingresan por teclado.
         
