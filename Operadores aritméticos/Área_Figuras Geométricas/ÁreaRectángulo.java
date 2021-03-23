@@ -34,5 +34,4 @@ public class ÁreaRectángulo {         //Se inicia la clase
         
         System.out.println("El área del rectángulo es: " + a);  //Línea de impresión para mostrar el resultado.
     }
-    
 }
