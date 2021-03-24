@@ -35,3 +35,5 @@ public class ÁreaRomboide {          //Se inicia la clase
         System.out.println("El área del romboide es: " + a);    //Línea de impresión para mostrar el resultado.
     }
 }
+
+
