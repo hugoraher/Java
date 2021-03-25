@@ -23,7 +23,7 @@ public class ÁreaRombo {         //Se inicia la clase
         Scanner input = new Scanner (System.in);                //Se declara la clase Scanner.
         int a,D, d;                                             //Se declaran variables.
         
-        System.out.println("\t\t\t\t\t\tÁrea de un Romboide\n");        //Línea impresa del título del programa.
+        System.out.println("\t\t\t\t\t\tÁrea de un Rombo\n");           //Línea impresa del título del programa.
         System.out.print("Ingresa el número para la Diagonal mayor: "); //Primer mensaje de impresión para ingresar datos por teclado.
         D=input.nextInt();                                              //Lee los datos que ingresan por teclado.
         
