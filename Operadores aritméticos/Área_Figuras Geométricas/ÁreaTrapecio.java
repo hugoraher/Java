@@ -36,5 +36,6 @@ public class ÁreaTrapecio {         //Se inicia la clase
         a=(B + b) * h / 2;                                              //Área= (Diagonal mayor + diagonal menor) * h / 2.
         
         System.out.println("El área del trapecio es: " + a);    //Línea de impresión para mostrar el resultado.
+        
     }
 }
