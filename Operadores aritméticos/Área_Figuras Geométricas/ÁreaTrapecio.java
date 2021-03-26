@@ -14,7 +14,6 @@ import java.util.Scanner;           //Se importa la clase Scanner (Permitirá in
  * @version java 1.8.0_281
  * Fecha última de modificación: / /2021
  * Hora última de modificación: : 
- *
  */
 
 
@@ -36,6 +35,5 @@ public class ÁreaTrapecio {         //Se inicia la clase
         a=(B + b) * h / 2;                                              //Área= (Diagonal mayor + diagonal menor) * h / 2.
         
         System.out.println("El área del trapecio es: " + a);    //Línea de impresión para mostrar el resultado.
-        
     }
 }
