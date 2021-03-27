@@ -29,7 +29,6 @@ public class ÁreaPolígonoRegular {           //Se inicia la clase
         System.out.print("Ingresa el número del apotema: ");                    //Segundo mensaje de impresión para ingresar datos por teclado.
         Ap=input.nextInt();                                                     //Lee los datos que ingresan por teclado.
         
-        
         a=Pe * Ap / 2;                                                          //Área= Perímetro * Apotema / 2.
         
         System.out.println("El área del Polígono Regular es: " + a);            //Línea de impresión para mostrar el resultado.    
