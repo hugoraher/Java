@@ -8,7 +8,7 @@ import java.util.Scanner;              //Se importa la clase Scanner (Permitirá
  * "El programa Área de un Círculo, calcula el área de un círculo mediante los datos que ingresa el usuario.
  * Para desarrollar éste programa: Se utilizó la clase Scanner, el operador "*", la función Math.pow 'elevado al cuadrado' y la función Math.Pi.
  * ---
- * Fecha de creación: 27/03/2021
+ * Fecha de creación: 28/03/2021
  * Hora: 06:45 am
  * @author Víctor Hugo Raher
  * @version java 1.8.0_281
@@ -23,7 +23,6 @@ public class ÁreaCírculo {          //Se inicia la clase
         Scanner input = new Scanner (System.in);                //Se declara la clase Scanner.
         double a, R;                                            //Se declaran variables.
        
-        
         System.out.println("\t\t\t\t\t\tÁrea de un Círculo\n");        //Línea impresa del título del programa.
         
         System.out.print("Ingresa el número para 'R=Radio': ");        //Primer mensaje de impresión para ingresar datos por teclado.
@@ -31,6 +30,6 @@ public class ÁreaCírculo {          //Se inicia la clase
             
         a=Math.PI * Math.pow(R,2);                                     //Área= Pi * R^2.
         
-        System.out.println("El área del trapecio es: " + a);    //Línea de impresión para mostrar el resultado.
+        System.out.println("El área del círculo es: " + a);    //Línea de impresión para mostrar el resultado.
     }
 }
