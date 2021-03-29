@@ -22,7 +22,6 @@ public class ÁreaCilindro {         //Se inicia la clase
         Scanner input = new Scanner (System.in);                //Se declara la clase Scanner.
         double a, h, R;                                         //Se declaran variables.
        
-        
         System.out.println("\t\t\t\t\t\tÁrea de un Cilindro\n");       //Línea impresa del título del programa.
         
         System.out.print("Ingresa el número para 'R=Radio': ");        //Primer mensaje de impresión para ingresar datos por teclado.
