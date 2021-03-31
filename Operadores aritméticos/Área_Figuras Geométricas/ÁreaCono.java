@@ -7,13 +7,14 @@ import java.util.Scanner;                //Se importa la clase Scanner (Permitir
  * "El programa Área de un Cono, calcula el área de un cono mediante los datos que ingresa el usuario.
  * Para desarrollar éste programa: Se utilizó la clase Scanner, el operador "* y +".
  * ---
- * Fecha de creación: 30/03/2021
+ * Fecha de creación: 31/03/2021
  * Hora: 07:00 am
  * @author Víctor Hugo Raher
  * @version java 1.8.0_281
  * Fecha última de modificación: / /2021
  * Hora última de modificación: : 
  */
+
 
 public class ÁreaCono {         //Se inicia la clase
     public static void main (String [] args){
