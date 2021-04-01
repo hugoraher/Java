@@ -36,6 +36,7 @@ public class ÁreaPrismaRecto {          //Se inicia la clase
         
         a=P*(al+a);                                                    //Área= 2 * Pi * R * (h+R).
         
+        
         System.out.println("El área del prisma recto es: " + a);      //Línea de impresión para mostrar el resultado.
     }
 }
